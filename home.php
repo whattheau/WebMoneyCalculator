@@ -18,7 +18,7 @@
 
 	<div class="wallpaper">
    <div class="Head_Home">Money <br>Calculator</div>
-   <div class="name">Pannalak Techaseamonrrasy | 13570254</div>
+   <div class="name">Pannalak Techaseamonrast | 13570254</div>
 
    <form action="currency.php" method="GET">
     <div class="box_money">
@@ -32,7 +32,7 @@
               <select class="select_style" name="currency" >
                 <option value="KRW" >เกาหลีวอน (KRW)</option>
                 <option value="USD" >ดอลลาร์(USD)</option>
-                <option value="SGD" >ดอลลาร์สิงคโร์ (SGD)</option>               
+                <option value="SGD" >ดอลลาร์สิงคโปร์ (SGD)</option>               
               </select>
       </div><!-- currency_box -->
           <button>Change!</button>
