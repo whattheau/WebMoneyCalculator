@@ -32,7 +32,7 @@
               <select class="select_style" name="currency" >
                 <option value="KRW" >เกาหลีวอน (KRW)</option>
                 <option value="USD" >ดอลลาร์(USD)</option>
-                <option value="SGD" >ดอลลาร์สิงคโปร์ (SGD)</option>               
+                <option value="SGD" >ดอลลาร์สิงคโร์ (SGD)</option>               
               </select>
       </div><!-- currency_box -->
           <button>Change!</button>
